@@ -1,0 +1,19 @@
+{
+    "name": "Ryan_Pool",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+        "files": [
+        {
+            "uri": "2.png",
+            "type": "image/png"
+        }
+        ],
+        "creators": [
+        {
+            "address": "2366FTjXUoxY923Ao2Em6aaHHpjTCV3KrZqp65cV1HXd",
+            "share": 100
+        }
+        ]
+    }
+}

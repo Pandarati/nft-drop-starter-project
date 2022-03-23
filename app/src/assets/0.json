@@ -1,0 +1,19 @@
+{
+    "name": "Cappy_America",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+        "files": [
+        {
+            "uri": "0.png",
+            "type": "image/png"
+        }
+        ],
+        "creators": [
+        {
+            "address": "2366FTjXUoxY923Ao2Em6aaHHpjTCV3KrZqp65cV1HXd",
+            "share": 100
+        }
+        ]
+    }
+}
